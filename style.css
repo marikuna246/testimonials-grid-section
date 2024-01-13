@@ -138,15 +138,16 @@ margin-top: 24px;
 @media only screen and (max-width:600px) {
   body{
   
-    padding: 71px 24px;
+    padding: 71px 0 24px;
 
   }
   main{
 display: flex;
-padding: 71px 24px;
+
 flex-direction: column;
 justify-content: center;
 align-items: center;
+
   }
  
   .daniel, .jeanette .kira.jonathan.patrick{
