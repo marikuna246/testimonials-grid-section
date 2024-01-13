@@ -135,9 +135,9 @@ margin-top: 24px;
    
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 412px) {
   body{
-    /* overflow: hidden; */
+  
     padding: 71px 24px;
 
   }
